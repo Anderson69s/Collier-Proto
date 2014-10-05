@@ -43,18 +43,3 @@ void loop() {
   delay(1000);
   //Et on recommence tout...
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
